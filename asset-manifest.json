@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Festorz/Django-RestApi-React/static/css/main.5f6fb6c8.chunk.css",
+    "main.js": "/Festorz/Django-RestApi-React/static/js/main.088c3e3a.chunk.js",
+    "main.js.map": "/Festorz/Django-RestApi-React/static/js/main.088c3e3a.chunk.js.map",
+    "runtime-main.js": "/Festorz/Django-RestApi-React/static/js/runtime-main.dc45038e.js",
+    "runtime-main.js.map": "/Festorz/Django-RestApi-React/static/js/runtime-main.dc45038e.js.map",
+    "static/js/2.8dd25eae.chunk.js": "/Festorz/Django-RestApi-React/static/js/2.8dd25eae.chunk.js",
+    "static/js/2.8dd25eae.chunk.js.map": "/Festorz/Django-RestApi-React/static/js/2.8dd25eae.chunk.js.map",
+    "static/js/3.07f2354e.chunk.js": "/Festorz/Django-RestApi-React/static/js/3.07f2354e.chunk.js",
+    "static/js/3.07f2354e.chunk.js.map": "/Festorz/Django-RestApi-React/static/js/3.07f2354e.chunk.js.map",
+    "index.html": "/Festorz/Django-RestApi-React/index.html",
+    "static/css/main.5f6fb6c8.chunk.css.map": "/Festorz/Django-RestApi-React/static/css/main.5f6fb6c8.chunk.css.map",
+    "static/js/2.8dd25eae.chunk.js.LICENSE.txt": "/Festorz/Django-RestApi-React/static/js/2.8dd25eae.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Festorz/Django-RestApi-React/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc45038e.js",
+    "static/js/2.8dd25eae.chunk.js",
+    "static/css/main.5f6fb6c8.chunk.css",
+    "static/js/main.088c3e3a.chunk.js"
+  ]
+}
